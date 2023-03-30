@@ -1,0 +1,18 @@
+2023.03.28 23:48:16,919	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2023.03.28 23:48:18,204	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2023.03.28 23:48:18,694	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2023.03.28 23:48:18,784	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2023.03.28 23:48:18,805	CONFIG	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2023.03.28 23:48:18,827	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2023.03.28 23:48:18,830	INFO	1	org.l2jmobius.loginserver.LoginServer	Login Server ready on *:2106
+2023.03.28 23:49:23,503	INFO	30	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver Sieghardt Internal IP to: 127.0.0.1
+2023.03.28 23:49:23,503	INFO	30	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver Sieghardt External IP to: 25.6.146.252
+2023.03.28 23:53:46,738	INFO	33	org.l2jmobius.loginserver.LoginController	Created new account for meze2
+2023.03.29 00:26:44,166	INFO	30	org.l2jmobius.loginserver.GameServerThread	GameServer [2] Sieghardt: Connection lost: Connection reset
+2023.03.29 00:26:44,166	INFO	30	org.l2jmobius.loginserver.GameServerThread	Server Sieghardt (2) : Set as disconnected
+2023.03.29 00:27:28,626	INFO	46	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver Sieghardt Internal IP to: 127.0.0.1
+2023.03.29 00:27:28,626	INFO	46	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver Sieghardt External IP to: 25.6.146.252
+2023.03.29 00:46:13,115	INFO	46	org.l2jmobius.loginserver.GameServerThread	GameServer [2] Sieghardt: Connection lost: Connection reset
+2023.03.29 00:46:13,115	INFO	46	org.l2jmobius.loginserver.GameServerThread	Server Sieghardt (2) : Set as disconnected
+2023.03.29 00:47:02,547	INFO	57	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver Sieghardt Internal IP to: 127.0.0.1
+2023.03.29 00:47:02,547	INFO	57	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver Sieghardt External IP to: 25.6.146.252

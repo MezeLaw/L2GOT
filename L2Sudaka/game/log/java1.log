@@ -1,0 +1,799 @@
+2023.03.29 00:26:46,097	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Database ]
+2023.03.29 00:26:46,624	INFO	22	org.l2jmobius.gameserver.model.World	World: Setting up World Regions
+2023.03.29 00:26:46,793	INFO	22	org.l2jmobius.gameserver.model.World	World: (176x256) World Region Grid set up.
+2023.03.29 00:26:47,460	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2023.03.29 00:26:47,461	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ ThreadPool ]
+2023.03.29 00:26:47,462	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2023.03.29 00:26:47,462	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...4 scheduled pool executors with 16 total threads.
+2023.03.29 00:26:47,464	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...4 instant pool executors with 8 total threads.
+2023.03.29 00:26:47,469	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------------=[ IdManager ]
+2023.03.29 00:26:47,473	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	Updated characters online status.
+2023.03.29 00:26:47,523	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: Cleaned 0 elements from database in 0 seconds.
+2023.03.29 00:26:47,569	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: Cleaned 2 expired timestamps from database.
+2023.03.29 00:26:47,574	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: 102912 id's available.
+2023.03.29 00:26:47,577	INFO	1	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: Running lazy cache
+2023.03.29 00:26:47,589	INFO	1	org.l2jmobius.gameserver.data.sql.ClanTable	Restored 0 clans from the database.
+2023.03.29 00:26:47,591	INFO	1	org.l2jmobius.gameserver.data.sql.CrestTable	CrestTable: Loaded 0 Crests.
+2023.03.29 00:26:47,878	INFO	1	org.l2jmobius.gameserver.scripting.ScriptEngineManager	Loaded 1 files to exclude.
+2023.03.29 00:26:47,878	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ World ]
+2023.03.29 00:26:47,986	INFO	1	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Loaded 1 variables.
+2023.03.29 00:26:48,046	INFO	1	org.l2jmobius.commons.util.IXmlReader	StaticObjectData: Loaded 29 static objects.
+2023.03.29 00:26:48,092	INFO	1	org.l2jmobius.gameserver.data.sql.TeleportLocationTable	TeleportLocationTable: Loaded 791 Teleport Location Templates
+2023.03.29 00:26:48,153	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Loaded 87 levels
+2023.03.29 00:26:48,154	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Max Player Level is: 78
+2023.03.29 00:26:48,154	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Max Pet Level is: 78
+2023.03.29 00:26:48,154	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Players ]
+2023.03.29 00:26:48,423	INFO	1	org.l2jmobius.commons.util.IXmlReader	PlayerTemplateData: Loaded 89 player templates.
+2023.03.29 00:26:48,424	INFO	1	org.l2jmobius.gameserver.GameServer	--------------------------------------------------=[ Skills ]
+2023.03.29 00:26:49,094	INFO	1	org.l2jmobius.gameserver.data.sql.SkillTreeTable	SkillTreeTable: Loaded 13143 skills.
+2023.03.29 00:26:49,157	INFO	1	org.l2jmobius.gameserver.data.sql.SkillTreeTable	FishingSkillTreeTable: Loaded 109 general skills.
+2023.03.29 00:26:49,157	INFO	1	org.l2jmobius.gameserver.data.sql.SkillTreeTable	FishingSkillTreeTable: Loaded 8 dwarven skills.
+2023.03.29 00:26:49,157	INFO	1	org.l2jmobius.gameserver.data.sql.SkillTreeTable	EnchantSkillTreeTable: Loaded 14520 enchant skills.
+2023.03.29 00:26:49,157	INFO	1	org.l2jmobius.gameserver.data.sql.SkillTreeTable	PledgeSkillTreeTable: Loaded 64 pledge skills.
+2023.03.29 00:26:51,450	INFO	1	org.l2jmobius.gameserver.data.SkillTable	SkillsEngine: Loaded 25651 skill templates.
+2023.03.29 00:26:51,494	INFO	1	org.l2jmobius.gameserver.data.sql.SkillSpellbookTable	SkillSpellbookTable: Loaded 274 spellbooks
+2023.03.29 00:26:51,533	INFO	1	org.l2jmobius.gameserver.data.sql.HelperBuffTable	HelperBuffTable: Loaded 14 templates.
+2023.03.29 00:26:51,534	INFO	1	org.l2jmobius.gameserver.GameServer	Skills: All skills loaded.
+2023.03.29 00:26:51,534	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Items ]
+2023.03.29 00:26:52,736	INFO	1	org.l2jmobius.gameserver.data.ItemTable	Highest item id used: 7849
+2023.03.29 00:26:52,863	INFO	1	org.l2jmobius.gameserver.data.xml.ArmorSetData	ArmorSetData: Loaded 45 armor sets.
+2023.03.29 00:26:53,036	INFO	1	org.l2jmobius.commons.util.IXmlReader	ExtractableItemData: Loaded 246 extractable items.
+2023.03.29 00:26:53,101	INFO	1	org.l2jmobius.commons.util.IXmlReader	SummonItemData: Loaded 13 summon items.
+2023.03.29 00:26:53,205	INFO	1	org.l2jmobius.commons.util.IXmlReader	HennaData: Loaded 180 hennas.
+2023.03.29 00:26:53,340	INFO	1	org.l2jmobius.commons.util.IXmlReader	FishData: Loaded 189 fish.
+2023.03.29 00:26:53,347	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------------------=[ Npc ]
+2023.03.29 00:26:53,390	INFO	1	org.l2jmobius.gameserver.data.SchemeBufferTable	SchemeBufferTable: Loaded 3 players schemes and 54 available buffs.
+2023.03.29 00:26:53,432	INFO	1	org.l2jmobius.gameserver.data.xml.WalkerRouteData	WalkerRouteData: Loaded 12 walker routes.
+2023.03.29 00:26:53,791	INFO	1	org.l2jmobius.gameserver.data.sql.NpcTable	NpcTable: Loaded 6594 Npc Templates.
+2023.03.29 00:26:53,801	INFO	1	org.l2jmobius.gameserver.data.sql.NpcTable	NpcTable: Loaded 6601 Npc Templates.
+2023.03.29 00:26:53,869	INFO	1	org.l2jmobius.gameserver.data.sql.NpcTable	CustomDropList : Added 0 custom droplist
+2023.03.29 00:26:53,994	INFO	1	org.l2jmobius.gameserver.data.sql.NpcTable	NpcTable: Loaded 451 Minions.
+2023.03.29 00:26:53,995	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Geodata ]
+2023.03.29 00:26:54,149	INFO	1	org.l2jmobius.gameserver.geoengine.GeoEngine	GeoEngine: Loaded 0 regions.
+2023.03.29 00:26:54,150	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Economy ]
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 14.
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,291	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 14 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,307	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 20.
+2023.03.29 00:26:54,307	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,307	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,307	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,308	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,308	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,308	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,308	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,308	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,309	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 20 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,312	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 9 is less than sell price 87 for ItemID:1835 of buylist 21.
+2023.03.29 00:26:54,312	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,313	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,314	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,314	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,314	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,314	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,314	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 21 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 11 is less than sell price 87 for ItemID:1835 of buylist 22.
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,315	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,316	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,316	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,316	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,316	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,316	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,316	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,316	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,316	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,317	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,317	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 22 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 23.
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,318	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,319	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,319	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,319	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,322	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,322	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,322	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,323	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,323	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,323	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,323	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 23 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,346	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 35.
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,347	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 35 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 42.
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,360	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 42 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,381	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 51.
+2023.03.29 00:26:54,381	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,386	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,386	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,386	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,386	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,386	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,386	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,387	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 51 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,401	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 63.
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,407	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,409	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,409	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,410	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,410	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,411	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,411	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,411	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,411	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,411	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 63 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,414	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 65.
+2023.03.29 00:26:54,414	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,414	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,414	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,415	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,416	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 65 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,418	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 68.
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,419	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 68 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 11 is less than sell price 87 for ItemID:1835 of buylist 71.
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,422	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 71 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,424	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 10 is less than sell price 87 for ItemID:1835 of buylist 72.
+2023.03.29 00:26:54,424	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,425	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,425	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,425	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,425	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,425	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,425	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,426	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 72 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,428	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 10 is less than sell price 87 for ItemID:1835 of buylist 73.
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,429	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 73 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 10 is less than sell price 87 for ItemID:1835 of buylist 74.
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,431	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 74 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 80.
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,440	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 80 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 86.
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,455	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,456	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,456	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,456	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,456	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,456	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 86 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,459	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 89 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,459	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 89 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,459	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 89 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,461	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 90 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,461	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 90 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,461	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 90 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,462	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 91 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,462	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 91 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,462	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 91 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,462	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 92 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,464	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 92 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,464	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 92 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,464	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 93 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,464	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 93 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,464	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 93 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,466	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 94 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,466	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 94 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,466	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 94 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 100.
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,481	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,482	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,482	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,482	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,482	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,482	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,482	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,482	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 100 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,485	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 104 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,485	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 104 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,485	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 104 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,506	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 117.
+2023.03.29 00:26:54,506	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,506	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,506	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,506	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,507	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,507	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,507	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,507	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,507	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,507	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,507	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,509	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,509	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,509	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,509	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,509	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,509	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,509	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 117 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,515	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 118 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,515	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 118 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,515	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 118 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 135.
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,551	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 135 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,559	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 136 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,561	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 136 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,561	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 136 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,566	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 141 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,566	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 141 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,566	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 141 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,568	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 10 is less than sell price 87 for ItemID:1835 of buylist 147.
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,569	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,570	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,570	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,570	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,570	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,570	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,570	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,570	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 147 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,591	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 168 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,591	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 168 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,592	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 168 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 7 is less than sell price 87 for ItemID:1835 of buylist 191.
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,650	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 191 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,704	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 6 is less than sell price 87 for ItemID:1835 of buylist 378.
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,707	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,708	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,708	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,708	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,708	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,708	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 378 itemId  4679 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,713	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 381 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,714	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 381 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,715	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 381 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,715	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 381 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,715	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 381 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,716	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 8 is less than sell price 87 for ItemID:1835 of buylist 382.
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,717	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,718	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,718	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,718	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,718	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,718	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,718	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,718	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 382 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,721	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 8 is less than sell price 87 for ItemID:1835 of buylist 383.
+2023.03.29 00:26:54,721	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,721	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,721	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,721	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,721	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,721	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,722	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,723	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,724	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,724	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 383 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,725	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 6 is less than sell price 87 for ItemID:1835 of buylist 5601.
+2023.03.29 00:26:54,725	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,725	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,725	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,725	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,725	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,725	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,725	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,726	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,727	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5601 itemId  4679 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,730	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5710 itemId  6645 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,730	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5710 itemId  6646 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,730	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5710 itemId  6647 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,739	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 10 is less than sell price 87 for ItemID:1835 of buylist 5804.
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,740	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,741	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,741	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,741	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,741	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,741	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,741	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,741	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5804 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	Buy price 10 is less than sell price 87 for ItemID:1835 of buylist 5805.
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  2509 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  3947 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  5146 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  5140 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  5134 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  5262 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  5256 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  5250 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  1060 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,743	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,744	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  1832 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,744	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,744	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  1834 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,744	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,744	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,744	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  6035 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,744	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 5805 itemId  5589 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,796	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 423 itemId  734 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,796	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 423 itemId  735 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,797	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 423 itemId  1831 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,797	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 423 itemId  1833 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:54,797	WARNING	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeList 423 itemId  1061 has an ADENA sell price lower then reference price.. Automatically Updating it..
+2023.03.29 00:26:55,808	INFO	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeController: Loaded 491 Buylists.
+2023.03.29 00:26:55,809	INFO	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeController: Loaded 132 Limited Buylists.
+2023.03.29 00:26:55,820	INFO	1	org.l2jmobius.gameserver.instancemanager.TradeManager	TradeController: Loaded 0 Custom Buylists.
+2023.03.29 00:26:56,713	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 36142001 entryId  1 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,719	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 36142001 entryId  2 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,721	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 36142001 entryId  3 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,721	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 36142001 entryId  9 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,721	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 36142001 entryId  13 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,819	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  7 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,819	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  8 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,819	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  9 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,819	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  12 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,819	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  13 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,819	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  14 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,819	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  15 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,820	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  17 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,820	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  18 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,820	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  20 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,820	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  21 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,820	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  22 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,820	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  23 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,824	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  24 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,824	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  25 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,824	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 90023 entryId  47 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,942	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  1 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,942	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  2 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,942	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  3 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,943	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  4 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,947	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  5 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,947	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  6 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,948	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  7 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,949	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  8 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,949	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  9 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,949	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  10 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,949	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  11 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,949	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  12 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,949	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  13 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,949	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  14 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,952	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  15 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,955	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  16 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,955	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  17 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,956	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  18 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,956	WARNING	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell 9129 entryId  23 has an ADENA price less then total products reference price.. Automatically Updating it..
+2023.03.29 00:26:56,970	INFO	1	org.l2jmobius.gameserver.data.xml.MultisellData	Multisell: Loaded 133 Multisells.
+2023.03.29 00:26:56,970	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ Clan Halls ]
+2023.03.29 00:26:56,972	INFO	1	org.l2jmobius.gameserver.data.sql.ClanHallTable	Initializing ClanHallManager
+2023.03.29 00:26:57,090	INFO	1	org.l2jmobius.gameserver.data.sql.ClanHallTable	Loaded: 0 clan halls
+2023.03.29 00:26:57,091	INFO	1	org.l2jmobius.gameserver.data.sql.ClanHallTable	Loaded: 33 free clan halls
+2023.03.29 00:26:57,095	INFO	1	org.l2jmobius.gameserver.model.siege.clanhalls.FortressOfResistance	Fortress of Resistanse: siege will start the 2023/03/31 21:00
+2023.03.29 00:26:57,097	INFO	1	org.l2jmobius.gameserver.model.siege.clanhalls.DevastatedCastle	Devastated Castle: siege will start the 2023/04/03 18:00
+2023.03.29 00:26:57,106	INFO	1	org.l2jmobius.gameserver.model.siege.clanhalls.BanditStrongholdSiege	SiegeManager of Bandits Stronghold
+2023.03.29 00:26:57,122	INFO	1	org.l2jmobius.gameserver.instancemanager.AuctionManager	Initializing AuctionManager
+2023.03.29 00:26:57,177	INFO	1	org.l2jmobius.gameserver.instancemanager.AuctionManager	Loaded: 27 auction(s)
+2023.03.29 00:26:57,177	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ Zone ]
+2023.03.29 00:26:57,206	INFO	1	org.l2jmobius.gameserver.data.xml.ZoneData	ZoneData: Loading zones...
+2023.03.29 00:26:57,361	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Loaded 10 Instances
+2023.03.29 00:26:57,799	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManager	Initializing CastleManager
+2023.03.29 00:26:57,877	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManager	Loaded: 9 castles
+2023.03.29 00:27:01,391	INFO	1	org.l2jmobius.gameserver.instancemanager.FortManager	Initializing FortManager
+2023.03.29 00:27:01,719	INFO	1	org.l2jmobius.gameserver.instancemanager.FortManager	Loaded: 21 fortress
+2023.03.29 00:27:07,437	INFO	1	org.l2jmobius.gameserver.data.xml.ZoneData	ZoneData: Loaded 22 zones classes and total 1001 zones.
+2023.03.29 00:27:07,582	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------------=[ Spawnlist ]
+2023.03.29 00:27:07,675	INFO	1	org.l2jmobius.gameserver.data.sql.FakePlayerTable	FakePlayerTable: loaded 0 NPC to PC polymorphs.
+2023.03.29 00:27:07,794	INFO	1	FenceData	FenceData: Loaded 1 Fences.
+2023.03.29 00:27:08,367	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Dion: Sat Apr 01 20:00:00 ART 2023
+2023.03.29 00:27:08,515	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Oren: Sun Apr 09 16:00:00 ART 2023
+2023.03.29 00:27:09,295	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Gludio: Sat Apr 01 20:00:00 ART 2023
+2023.03.29 00:27:09,295	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Giran: Sun Apr 09 16:00:00 ART 2023
+2023.03.29 00:27:09,295	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Innadril: Sun Apr 09 16:00:00 ART 2023
+2023.03.29 00:27:09,310	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Aden: Sat Apr 01 20:00:00 ART 2023
+2023.03.29 00:27:09,662	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Goddard: Sun Apr 09 16:00:00 ART 2023
+2023.03.29 00:27:09,759	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Rune: Sat Apr 01 20:00:00 ART 2023
+2023.03.29 00:27:09,866	INFO	1	org.l2jmobius.gameserver.data.sql.SpawnTable	SpawnTable: Loaded 34603 Npc Spawn Locations. 
+2023.03.29 00:27:09,866	INFO	1	org.l2jmobius.gameserver.data.sql.SpawnTable	SpawnTable: Total number of NPCs in the world: 34603
+2023.03.29 00:27:09,878	INFO	1	org.l2jmobius.gameserver.data.sql.SpawnTable	CustomSpawnTable: Loaded 5 Npc Spawn Locations. 
+2023.03.29 00:27:09,878	INFO	1	org.l2jmobius.gameserver.data.sql.SpawnTable	CustomSpawnTable: Total number of NPCs in the world: 5
+2023.03.29 00:27:09,951	INFO	1	org.l2jmobius.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Loaded 180 instances.
+2023.03.29 00:27:09,951	INFO	1	org.l2jmobius.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Scheduled 0 instances.
+2023.03.29 00:27:09,979	INFO	1	org.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 0 day creatures
+2023.03.29 00:27:09,986	INFO	1	org.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 599 night creatures
+2023.03.29 00:27:09,986	WARNING	1	org.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawning Hellman raidboss
+2023.03.29 00:27:10,163	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------=[ Dimensional Rift ]
+2023.03.29 00:27:10,247	INFO	1	org.l2jmobius.gameserver.instancemanager.DimensionalRiftManager	DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+2023.03.29 00:27:10,264	INFO	1	org.l2jmobius.gameserver.instancemanager.DimensionalRiftManager	DimensionalRiftManager: Loaded 462 dimensional rift spawns.
+2023.03.29 00:27:10,264	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ Misc ]
+2023.03.29 00:27:10,507	INFO	1	org.l2jmobius.gameserver.data.xml.RecipeData	RecipeData: Loaded 782 recipes.
+2023.03.29 00:27:10,541	INFO	1	org.l2jmobius.gameserver.instancemanager.games.MonsterRace	MonsterRace: loaded 25 records, currently on race #26
+2023.03.29 00:27:10,571	INFO	1	org.l2jmobius.gameserver.instancemanager.MercTicketManager	Initializing MercTicketManager
+2023.03.29 00:27:10,573	INFO	1	org.l2jmobius.gameserver.instancemanager.MercTicketManager	Loaded: 0 Mercenary Tickets
+2023.03.29 00:27:10,607	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Manor ]
+2023.03.29 00:27:10,636	INFO	1	org.l2jmobius.gameserver.data.xml.ManorSeedData	ManorSeedData: Loaded 200 seeds.
+2023.03.29 00:27:10,680	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Castles ]
+2023.03.29 00:27:10,684	INFO	1	org.l2jmobius.gameserver.instancemanager.SiegeManager	Initializing SiegeManager
+2023.03.29 00:27:10,710	INFO	1	org.l2jmobius.gameserver.instancemanager.FortSiegeManager	Initializing FortSiegeManager
+2023.03.29 00:27:10,722	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ Boat ]
+2023.03.29 00:27:10,790	INFO	1	org.l2jmobius.gameserver.data.xml.BoatData	BoatData: Loaded 4 boats.
+2023.03.29 00:27:10,791	INFO	1	org.l2jmobius.gameserver.data.xml.BoatData	BoatData: Loaded 7 paths.
+2023.03.29 00:27:10,791	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Doors ]
+2023.03.29 00:27:10,898	INFO	1	org.l2jmobius.gameserver.data.xml.DoorData	DoorData: Loaded 1001 doors.
+2023.03.29 00:27:10,898	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------=[ Four Sepulchers ]
+2023.03.29 00:27:10,951	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Loaded 10 Instances
+2023.03.29 00:27:11,022	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	FourSepulchersManager: Beginning in Attack time
+2023.03.29 00:27:11,022	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------=[ Seven Signs ]
+2023.03.29 00:27:11,043	INFO	1	org.l2jmobius.gameserver.model.sevensigns.SevenSigns	SevenSigns: Currently in the Competition (Quest Event) period!
+2023.03.29 00:27:11,043	INFO	1	org.l2jmobius.gameserver.model.sevensigns.SevenSigns	SevenSigns: The Seal of Avarice remains unclaimed.
+2023.03.29 00:27:11,044	INFO	1	org.l2jmobius.gameserver.model.sevensigns.SevenSigns	SevenSigns: The Seal of Gnosis remains unclaimed.
+2023.03.29 00:27:11,044	INFO	1	org.l2jmobius.gameserver.model.sevensigns.SevenSigns	SevenSigns: The Seal of Strife remains unclaimed.
+2023.03.29 00:27:11,044	INFO	1	org.l2jmobius.gameserver.model.sevensigns.SevenSigns	SevenSigns: The competition, if the current trend continues, will end in a tie this week.
+2023.03.29 00:27:11,099	INFO	1	org.l2jmobius.gameserver.model.sevensigns.SevenSigns	SevenSigns: Next period in 5 days, 17 hours and 32 mins.
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.model.sevensigns.SevenSignsFestival	SevenSignsFestival: The first Festival of Darkness cycle begins in 2 minute(s).
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------=[ Olympiad System ]
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loading Olympiad System....
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Currently in Olympiad Period
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: 5012 minutes until period ends
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Next weekly change is in 8633 minutes
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loaded 0 Nobles
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 17 hours and 33 mins.
+2023.03.29 00:27:11,266	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started : Wed Mar 29 18:00:11 ART 2023
+2023.03.29 00:27:11,284	INFO	1	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 Heroes.
+2023.03.29 00:27:11,285	INFO	1	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 all time Heroes.
+2023.03.29 00:27:11,285	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------=[ Access Levels ]
+2023.03.29 00:27:11,337	INFO	1	org.l2jmobius.gameserver.data.xml.AdminData	AdminData: Loaded 7 access levels.
+2023.03.29 00:27:11,353	INFO	1	org.l2jmobius.gameserver.data.xml.AdminData	AdminData: Loaded 353 access commands.
+2023.03.29 00:27:11,353	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Handlers ]
+2023.03.29 00:27:11,576	INFO	1	org.l2jmobius.gameserver.handler.ItemHandler	ItemHandler: Loaded 1869 handlers.
+2023.03.29 00:27:11,780	INFO	1	org.l2jmobius.gameserver.handler.SkillHandler	SkillHandler: Loaded 76 handlers.
+2023.03.29 00:27:12,096	INFO	1	org.l2jmobius.gameserver.handler.AdminCommandHandler	AdminCommandHandler: Loaded 359 handlers.
+2023.03.29 00:27:12,209	INFO	1	org.l2jmobius.gameserver.handler.UserCommandHandler	UserCommandHandler: Loaded 16 handlers.
+2023.03.29 00:27:12,235	INFO	1	org.l2jmobius.gameserver.handler.VoicedCommandHandler	VoicedCommandHandler: Loaded 2 handlers.
+2023.03.29 00:27:12,236	INFO	1	org.l2jmobius.gameserver.GameServer	AutoChatHandler: Loaded 32 handlers in total.
+2023.03.29 00:27:12,237	INFO	1	org.l2jmobius.gameserver.GameServer	AutoSpawnHandler: Loaded 129 handlers in total.
+2023.03.29 00:27:12,245	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Scripts ]
+2023.03.29 00:27:12,245	INFO	1	org.l2jmobius.gameserver.GameServer	ScriptEngineManager: Loading server scripts:
+2023.03.29 00:27:24,650	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event L2 Day has passed... Ignored 
+2023.03.29 00:27:26,898	INFO	1	org.l2jmobius.gameserver.GameServer	--------------------------------------------------=[ Quests ]
+2023.03.29 00:27:26,901	INFO	1	org.l2jmobius.gameserver.instancemanager.QuestManager	Loaded: 294 quest scripts.
+2023.03.29 00:27:26,901	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------=[ Game Server ]
+2023.03.29 00:27:26,905	INFO	1	org.l2jmobius.gameserver.GameServer	IdFactory: Free ObjectID's remaining: 1879009125
+2023.03.29 00:27:26,922	INFO	1	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loading offline traders...
+2023.03.29 00:27:26,926	INFO	1	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loaded 0 offline traders.
+2023.03.29 00:27:26,927	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ Protection ]
+2023.03.29 00:27:26,927	INFO	1	org.l2jmobius.gameserver.GameServer	Check skills on enter actived.
+2023.03.29 00:27:26,927	INFO	1	org.l2jmobius.gameserver.GameServer	Check bad name on enter actived.
+2023.03.29 00:27:26,927	INFO	1	org.l2jmobius.gameserver.GameServer	Check OverEnchant items on enter actived.
+2023.03.29 00:27:26,927	INFO	1	org.l2jmobius.gameserver.GameServer	Bypass Validation actived.
+2023.03.29 00:27:26,928	INFO	1	org.l2jmobius.gameserver.GameServer	L2Walker protection actived.
+2023.03.29 00:27:26,964	INFO	1	org.l2jmobius.gameserver.GameServer	--------------------------------------------------=[ Status ]
+2023.03.29 00:27:27,397	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Started, using 245 of 4096 MB total memory.
+2023.03.29 00:27:27,397	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Maximum number of connected players is 2000.
+2023.03.29 00:27:27,426	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Server loaded in 42 seconds.
+2023.03.29 00:27:28,559	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on *:7777
+2023.03.29 00:27:28,574	INFO	58	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Connecting to login on 127.0.0.1:9014
+2023.03.29 00:27:28,632	INFO	58	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Registered on login as Server 2: Sieghardt
+2023.03.29 00:29:00,869	WARNING	60	org.l2jmobius.gameserver.model.actor.Creature	Access level 100 set for character DIEGOTE! Just a warning ;)
+2023.03.29 00:29:41,463	WARNING	62	org.l2jmobius.gameserver.model.actor.Creature	Access level 100 set for character Kanco! Just a warning ;)
+2023.03.29 00:29:44,611	INFO	22	org.l2jmobius.gameserver.ui.SystemPanel	New maximum connected count of 2!
+2023.03.29 00:30:03,953	INFO	62	org.l2jmobius.gameserver.data.SkillTable	SkillsEngine: Loaded 25651 skill templates.
+2023.03.29 00:30:08,302	INFO	62	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: Running lazy cache
+2023.03.29 00:33:22,051	INFO	62	org.l2jmobius.gameserver.data.SkillTable	SkillsEngine: Loaded 25651 skill templates.
+2023.03.29 00:37:30,814	INFO	62	org.l2jmobius.gameserver.data.SkillTable	SkillsEngine: Loaded 25651 skill templates.
+2023.03.29 00:45:56,863	WARNING	62	org.l2jmobius.gameserver.Shutdown	GM: Kanco(268474480) issued shutdown command. SIGTERM in 10 seconds!
+2023.03.29 00:46:06,886	WARNING	65	org.l2jmobius.gameserver.Shutdown	GM shutdown countdown is over. restarting NOW!
+2023.03.29 00:46:06,886	INFO	65	org.l2jmobius.gameserver.Shutdown	GM restart received. Restarting NOW!
+2023.03.29 00:46:06,887	INFO	65	org.l2jmobius.gameserver.Shutdown	Disconnecting all players from the Server...
+2023.03.29 00:46:06,895	INFO	65	org.l2jmobius.gameserver.Shutdown	Saving all players data...
+2023.03.29 00:46:06,916	INFO	65	org.l2jmobius.gameserver.Shutdown	SevenSigns: All info saved!!
+2023.03.29 00:46:07,048	INFO	65	org.l2jmobius.gameserver.Shutdown	RaidBossSpawnManager: All raidboss info saved!!
+2023.03.29 00:46:07,057	INFO	65	org.l2jmobius.gameserver.Shutdown	GrandBossManager: All Grand Boss info saved!!
+2023.03.29 00:46:07,057	INFO	65	org.l2jmobius.gameserver.Shutdown	Clan System: Data saved!!
+2023.03.29 00:46:07,058	INFO	65	org.l2jmobius.gameserver.Shutdown	TradeController: All count Item Saved!!
+2023.03.29 00:46:07,058	INFO	65	org.l2jmobius.gameserver.Shutdown	Olympiad System: Data saved!!
+2023.03.29 00:46:07,095	INFO	65	org.l2jmobius.gameserver.Shutdown	BufferTable data has been saved!!
+2023.03.29 00:46:07,105	INFO	65	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 1 variables.
+2023.03.29 00:46:07,105	INFO	65	org.l2jmobius.gameserver.Shutdown	Global Variables Manager: Variables have been saved!!
+2023.03.29 00:46:12,114	INFO	65	org.l2jmobius.gameserver.Shutdown	Movement Task Manager thread has been shutdown.
+2023.03.29 00:46:12,114	INFO	65	org.l2jmobius.gameserver.Shutdown	Game Time Task Manager thread has been shutdown.
+2023.03.29 00:46:12,117	INFO	65	org.l2jmobius.gameserver.Shutdown	Game Server: Selector thread has been shutdown.
+2023.03.29 00:46:12,117	INFO	65	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Shutting down.
+2023.03.29 00:46:12,118	INFO	65	org.l2jmobius.gameserver.Shutdown	Committing all data, last chance...
+2023.03.29 00:46:12,370	INFO	65	org.l2jmobius.gameserver.Shutdown	All database data committed.
+2023.03.29 00:46:12,370	INFO	65	org.l2jmobius.gameserver.Shutdown	[STATUS] Server shutdown successfully.

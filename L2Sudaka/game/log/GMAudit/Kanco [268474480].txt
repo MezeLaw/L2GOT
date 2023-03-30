@@ -1,0 +1,390 @@
+28/03/2023 0:28:22>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 0:28:26>Kanco [268474480]>admin_admin2>Kanco>
+28/03/2023 0:28:27>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 0:28:28>Kanco [268474480]>admin_character_info>Kanco> Kanco
+28/03/2023 0:28:40>Kanco [268474480]>admin_setclass>Kanco>
+28/03/2023 0:28:42>Kanco [268474480]>admin_current_player>Kanco>
+28/03/2023 0:28:46>Kanco [268474480]>admin_show_skills>Kanco>
+28/03/2023 0:28:50>Kanco [268474480]>admin_current_player>Kanco>
+28/03/2023 0:29:02>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 0:29:06>Kanco [268474480]>admin_admin2>Kanco>
+28/03/2023 0:29:16>Kanco [268474480]>admin_admin2>Gremlin>
+28/03/2023 0:29:17>Kanco [268474480]>admin_show_characters>Gremlin> 0
+28/03/2023 0:29:45>Kanco [268474480]>admin_gmspeed 4>DIEGOTE>
+28/03/2023 0:29:55>Kanco [268474480]>admin_gmspeed 10>Kanco>
+28/03/2023 1:13:25>Kanco [268474480]>admin_admin>DIEGOTE>
+28/03/2023 1:13:27>Kanco [268474480]>admin_admin4>DIEGOTE>
+28/03/2023 1:13:29>Kanco [268474480]>admin_server_shutdown>DIEGOTE>
+28/03/2023 1:13:34>Kanco [268474480]>admin_server_restart>DIEGOTE> 10
+28/03/2023 1:20:01>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 1:20:29>Kanco [268474480]>admin_spawn 55555>Kanco>
+28/03/2023 1:20:38>Kanco [268474480]>admin_delete>Totor>
+28/03/2023 1:21:19>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 1:21:19>Kanco [268474480]>admin_move_to>no-target>
+28/03/2023 1:21:21>Kanco [268474480]>admin_help>no-target> tele/towns.htm
+28/03/2023 1:21:23>Kanco [268474480]>admin_move_to>no-target> 15670 142983 -2705
+28/03/2023 1:21:32>Kanco [268474480]>admin_spawn 50008>Kanco>
+28/03/2023 1:21:48>Kanco [268474480]>admin_recall darthes>Kanco>
+28/03/2023 1:23:59>Kanco [268474480]>admin_gmspeed 5>Kanco>
+28/03/2023 1:28:44>Kanco [268474480]>admin_edit_npc>Rex the Cat> 50008
+28/03/2023 1:29:06>Kanco [268474480]>admin_show_skilllist_npc>Rex the Cat> 50008
+28/03/2023 1:29:07>Kanco [268474480]>admin_show_droplist>Rex the Cat> 50008
+28/03/2023 1:29:09>Kanco [268474480]>admin_close_window>Rex the Cat>
+28/03/2023 1:29:12>Kanco [268474480]>admin_show_droplist>Rex the Cat> 50008
+28/03/2023 1:29:14>Kanco [268474480]>admin_close_window>Rex the Cat>
+28/03/2023 1:29:29>Kanco [268474480]>admin_admin>Rex the Cat>
+28/03/2023 1:29:30>Kanco [268474480]>admin_admin4>Rex the Cat>
+28/03/2023 1:29:31>Kanco [268474480]>admin_server_shutdown>Rex the Cat>
+28/03/2023 1:29:50>Kanco [268474480]>admin_server_restart>Rex the Cat> 10
+28/03/2023 1:33:05>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 1:33:07>Kanco [268474480]>admin_admin4>no-target>
+28/03/2023 1:33:07>Kanco [268474480]>admin_server_shutdown>no-target>
+28/03/2023 1:33:08>Kanco [268474480]>admin_server_restart>no-target> 1
+28/03/2023 1:34:13>Kanco [268474480]>admin_spawn 50008>Kanco>
+28/03/2023 1:34:28>Kanco [268474480]>admin_edit_npc>Rex the Cat> 50008
+28/03/2023 1:37:38>Kanco [268474480]>admin_spawn 50008>Kanco>
+28/03/2023 1:37:44>Kanco [268474480]>admin_delete>Rex the Cat>
+28/03/2023 1:37:49>Kanco [268474480]>admin_delete>Rex the Cat>
+28/03/2023 1:37:53>Kanco [268474480]>admin_delete>Rex the Cat>
+28/03/2023 1:37:55>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 1:37:56>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 1:37:59>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 1:38:00>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 1:38:04>Kanco [268474480]>admin_admin3>no-target>
+28/03/2023 1:38:04>Kanco [268474480]>admin_admin4>no-target>
+28/03/2023 1:38:12>Kanco [268474480]>admin_reload>no-target>
+28/03/2023 1:38:20>Kanco [268474480]>admin_reload>no-target> npc
+28/03/2023 1:38:32>Kanco [268474480]>admin_spawn 50008>Kanco>
+28/03/2023 1:44:50>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 1:44:55>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 1:44:56>Kanco [268474480]>admin_admin4>Kanco>
+28/03/2023 1:44:57>Kanco [268474480]>admin_reload>Kanco>
+28/03/2023 1:44:59>Kanco [268474480]>admin_reload>Kanco> npc
+28/03/2023 1:45:08>Kanco [268474480]>admin_spawn 50000>Kanco>
+28/03/2023 1:46:53>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 1:46:56>Kanco [268474480]>admin_admin3>Kanco>
+28/03/2023 1:46:57>Kanco [268474480]>admin_admin2>Kanco>
+28/03/2023 1:46:58>Kanco [268474480]>admin_admin4>Kanco>
+28/03/2023 1:46:59>Kanco [268474480]>admin_reload>Kanco>
+28/03/2023 1:47:00>Kanco [268474480]>admin_reload>Kanco> npc
+28/03/2023 1:47:08>Kanco [268474480]>admin_spawn 50000>Kanco>
+28/03/2023 1:47:19>Kanco [268474480]>admin_delete>GM SHOP>
+28/03/2023 1:47:28>Kanco [268474480]>admin_delete>GM SHOP>
+28/03/2023 1:47:34>Kanco [268474480]>admin_delete>Rex the Cat>
+28/03/2023 1:47:40>Kanco [268474480]>admin_admin>Trisha>
+28/03/2023 1:47:41>Kanco [268474480]>admin_move_to>Trisha>
+28/03/2023 1:47:42>Kanco [268474480]>admin_help>Trisha> tele/towns.htm
+28/03/2023 1:47:45>Kanco [268474480]>admin_move_to>Trisha> 83400 147943 -3404
+28/03/2023 1:48:01>Kanco [268474480]>admin_spawn 50000>Kanco>
+28/03/2023 1:48:32>Kanco [268474480]>admin_spawn 50008>Kanco>
+28/03/2023 1:49:07>Kanco [268474480]>admin_spawn 31288>Kanco>
+28/03/2023 1:51:07>Kanco [268474480]>admin_admin>Roy the Cat>
+28/03/2023 1:51:08>Kanco [268474480]>admin_admin4>Roy the Cat>
+28/03/2023 1:51:09>Kanco [268474480]>admin_reload>Roy the Cat>
+28/03/2023 1:51:10>Kanco [268474480]>admin_reload>Roy the Cat> npc
+28/03/2023 1:51:19>Kanco [268474480]>admin_delete>Roy the Cat>
+28/03/2023 1:51:31>Kanco [268474480]>admin_spawn 31288>Kanco>
+28/03/2023 1:52:43>Kanco [268474480]>admin_admin>Roy the Cat>
+28/03/2023 1:52:44>Kanco [268474480]>admin_admin4>Roy the Cat>
+28/03/2023 1:52:46>Kanco [268474480]>admin_reload>Roy the Cat>
+28/03/2023 1:52:49>Kanco [268474480]>admin_reload>Roy the Cat> npc
+28/03/2023 1:52:51>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 1:52:56>Kanco [268474480]>admin_list_spawns>Kanco>
+28/03/2023 1:53:06>Kanco [268474480]>admin_spawn 31228>Kanco>
+28/03/2023 1:53:11>Kanco [268474480]>admin_delete>Roy the Cat>
+28/03/2023 1:53:17>Kanco [268474480]>admin_delete>Roy the Cat>
+28/03/2023 1:53:26>Kanco [268474480]>admin_spawn 31228>Kanco>
+28/03/2023 1:53:51>Kanco [268474480]>admin_edit_npc>Roy the Cat> 31228
+28/03/2023 1:54:00>Kanco [268474480]>admin_save_npc>Roy the Cat> 31228 title Class Master
+28/03/2023 1:54:11>Kanco [268474480]>admin_admin>Roy the Cat>
+28/03/2023 1:54:12>Kanco [268474480]>admin_admin2>Roy the Cat>
+28/03/2023 1:54:13>Kanco [268474480]>admin_show_characters>Roy the Cat> 0
+28/03/2023 1:54:15>Kanco [268474480]>admin_admin2>Roy the Cat>
+28/03/2023 1:54:15>Kanco [268474480]>admin_admin4>Roy the Cat>
+28/03/2023 1:54:16>Kanco [268474480]>admin_reload>Roy the Cat>
+28/03/2023 1:54:17>Kanco [268474480]>admin_reload>Roy the Cat> npc
+28/03/2023 1:54:22>Kanco [268474480]>admin_spawn 31228>Kanco>
+28/03/2023 1:54:31>Kanco [268474480]>admin_delete>Roy the Cat>
+28/03/2023 1:54:34>Kanco [268474480]>admin_delete>Roy the Cat>
+28/03/2023 1:55:10>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 1:55:11>Kanco [268474480]>admin_spawn_monster>Kanco>
+28/03/2023 1:55:19>Kanco [268474480]>admin_spawn_monster>Kanco> 31228
+28/03/2023 1:55:26>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 1:55:27>Kanco [268474480]>admin_admin2>Kanco>
+28/03/2023 1:55:28>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 1:55:28>Kanco [268474480]>admin_character_info>Kanco> Kanco
+28/03/2023 1:56:24>Kanco [268474480]>admin_admin>Darthes>
+28/03/2023 1:56:25>Kanco [268474480]>admin_admin2>Darthes>
+28/03/2023 1:56:26>Kanco [268474480]>admin_show_characters>Darthes> 0
+28/03/2023 1:56:26>Kanco [268474480]>admin_character_info>Darthes> Darthes
+28/03/2023 1:56:28>Kanco [268474480]>admin_add_exp_sp_to_character>Darthes>
+28/03/2023 1:56:31>Kanco [268474480]>admin_set_level>Darthes> 76
+28/03/2023 2:00:04>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:00:05>Kanco [268474480]>admin_admin4>no-target>
+28/03/2023 2:00:07>Kanco [268474480]>admin_reload>no-target>
+28/03/2023 2:00:08>Kanco [268474480]>admin_reload>no-target> configs
+28/03/2023 2:01:25>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:01:25>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:01:26>Kanco [268474480]>admin_character_info>no-target> Darthes
+28/03/2023 2:01:27>Kanco [268474480]>admin_add_exp_sp_to_character>Darthes>
+28/03/2023 2:01:30>Kanco [268474480]>admin_set_level>Darthes> 80
+28/03/2023 2:01:33>Kanco [268474480]>admin_admin>Darthes>
+28/03/2023 2:01:34>Kanco [268474480]>admin_admin2>Darthes>
+28/03/2023 2:01:34>Kanco [268474480]>admin_show_characters>Darthes> 0
+28/03/2023 2:01:35>Kanco [268474480]>admin_character_info>Darthes> Darthes
+28/03/2023 2:01:37>Kanco [268474480]>admin_add_exp_sp_to_character>Darthes>
+28/03/2023 2:01:39>Kanco [268474480]>admin_set_level>Darthes> 78
+28/03/2023 2:02:28>Kanco [268474480]>admin_admin>Darthes>
+28/03/2023 2:02:29>Kanco [268474480]>admin_move_to>Darthes>
+28/03/2023 2:02:31>Kanco [268474480]>admin_help>Darthes> tele/towns.htm
+28/03/2023 2:02:32>Kanco [268474480]>admin_move_to>Darthes> 83400 147943 -3404
+28/03/2023 2:02:35>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:02:36>Kanco [268474480]>admin_move_to>no-target>
+28/03/2023 2:02:38>Kanco [268474480]>admin_help>no-target> tele/other.htm
+28/03/2023 2:02:42>Kanco [268474480]>admin_help>no-target> tele/others/giran.htm
+28/03/2023 2:02:44>Kanco [268474480]>admin_help>no-target> tele/other.htm
+28/03/2023 2:02:44>Kanco [268474480]>admin_show_moves>no-target>
+28/03/2023 2:02:49>Kanco [268474480]>admin_help>no-target> tele/other.htm
+28/03/2023 2:02:50>Kanco [268474480]>admin_show_moves>no-target>
+28/03/2023 2:02:51>Kanco [268474480]>admin_help>no-target> tele/other.htm
+28/03/2023 2:02:57>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:03:00>Kanco [268474480]>admin_superhaste>no-target> 4
+28/03/2023 2:03:16>Kanco [268474480]>admin_recall darthes>Kanco>
+28/03/2023 2:03:53>Kanco [268474480]>admin_admin>Darthes>
+28/03/2023 2:03:54>Kanco [268474480]>admin_admin2>Darthes>
+28/03/2023 2:03:55>Kanco [268474480]>admin_show_characters>Darthes> 0
+28/03/2023 2:03:56>Kanco [268474480]>admin_character_info>Darthes> Darthes
+28/03/2023 2:03:57>Kanco [268474480]>admin_add_exp_sp_to_character>Darthes>
+28/03/2023 2:03:59>Kanco [268474480]>admin_set_level>Darthes> 77
+28/03/2023 2:04:46>Kanco [268474480]>admin_recall darthes>Kanco>
+28/03/2023 2:09:37>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 2:09:39>Kanco [268474480]>admin_create_item>Kanco>
+28/03/2023 2:09:55>Kanco [268474480]>admin_create_item>Kanco> 6673 1
+28/03/2023 2:22:03>Kanco [268474480]>admin_reload>Kanco>
+28/03/2023 2:22:06>Kanco [268474480]>admin_reload>Kanco> configs
+28/03/2023 2:23:00>Kanco [268474480]>admin_reload>Kanco> npc
+28/03/2023 2:23:19>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 2:23:20>Kanco [268474480]>admin_admin2>Kanco>
+28/03/2023 2:23:21>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:23:22>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:23:22>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:23:23>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:23:23>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:23:24>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:23:25>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:23:26>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:23:27>Kanco [268474480]>admin_character_info>Kanco> sub
+28/03/2023 2:23:28>Kanco [268474480]>admin_add_exp_sp_to_character>sub>
+28/03/2023 2:23:31>Kanco [268474480]>admin_set_level>sub> 76
+28/03/2023 2:23:32>Kanco [268474480]>admin_admin>sub>
+28/03/2023 2:23:33>Kanco [268474480]>admin_admin2>sub>
+28/03/2023 2:23:33>Kanco [268474480]>admin_show_characters>sub> 0
+28/03/2023 2:23:34>Kanco [268474480]>admin_character_info>sub> sub
+28/03/2023 2:23:35>Kanco [268474480]>admin_recall_char_menu>sub> sub
+28/03/2023 2:24:07>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:24:08>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:09>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:13>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:14>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:15>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:17>Kanco [268474480]>admin_character_info>no-target> sub1
+28/03/2023 2:24:17>Kanco [268474480]>admin_add_exp_sp_to_character>no-target>
+28/03/2023 2:24:19>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:24:20>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:24:20>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:21>Kanco [268474480]>admin_character_info>no-target> sub1
+28/03/2023 2:24:22>Kanco [268474480]>admin_add_exp_sp_to_character>no-target>
+28/03/2023 2:24:23>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:24:24>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:24:24>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:25>Kanco [268474480]>admin_character_info>no-target> sub1
+28/03/2023 2:24:26>Kanco [268474480]>admin_add_exp_sp_to_character>no-target>
+28/03/2023 2:24:30>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:24:30>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:24:31>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:32>Kanco [268474480]>admin_character_info>no-target> sub1
+28/03/2023 2:24:32>Kanco [268474480]>admin_add_exp_sp_to_character>no-target>
+28/03/2023 2:24:35>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:24:36>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:24:37>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:24:38>Kanco [268474480]>admin_character_info>no-target> sub1
+28/03/2023 2:24:39>Kanco [268474480]>admin_recall_char_menu>no-target> sub1
+28/03/2023 2:24:40>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:24:45>Kanco [268474480]>admin_show_characters>sub1> 0
+28/03/2023 2:24:46>Kanco [268474480]>admin_character_info>sub1> sub1
+28/03/2023 2:24:47>Kanco [268474480]>admin_add_exp_sp_to_character>sub1>
+28/03/2023 2:24:50>Kanco [268474480]>admin_set_level>sub1> 76
+28/03/2023 2:25:13>Kanco [268474480]>admin_admin>sub1>
+28/03/2023 2:25:14>Kanco [268474480]>admin_admin2>sub1>
+28/03/2023 2:25:17>Kanco [268474480]>admin_show_characters>sub1> 0
+28/03/2023 2:25:18>Kanco [268474480]>admin_character_info>sub1> sub1
+28/03/2023 2:25:19>Kanco [268474480]>admin_recall_char_menu>sub1> sub1
+28/03/2023 2:25:40>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:25:41>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:25:41>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:25:42>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:25:43>Kanco [268474480]>admin_admin4>no-target>
+28/03/2023 2:25:44>Kanco [268474480]>admin_server_shutdown>no-target>
+28/03/2023 2:25:50>Kanco [268474480]>admin_server_restart>no-target> 10
+28/03/2023 2:27:59>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:28:00>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:28:01>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:28:03>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:28:04>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:28:05>Kanco [268474480]>admin_admin4>no-target>
+28/03/2023 2:28:07>Kanco [268474480]>admin_reload>no-target>
+28/03/2023 2:28:09>Kanco [268474480]>admin_reload>no-target> configs
+28/03/2023 2:28:17>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:28:17>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:28:18>Kanco [268474480]>admin_character_info>no-target> 312
+28/03/2023 2:28:19>Kanco [268474480]>admin_add_exp_sp_to_character>no-target>
+28/03/2023 2:28:21>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:28:21>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:28:22>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:28:23>Kanco [268474480]>admin_character_info>no-target> 312
+28/03/2023 2:28:24>Kanco [268474480]>admin_recall_char_menu>no-target> 312
+28/03/2023 2:28:25>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:28:35>Kanco [268474480]>admin_spawn 31288>Kanco>
+28/03/2023 2:28:38>Kanco [268474480]>admin_show_characters>312> 0
+28/03/2023 2:28:38>Kanco [268474480]>admin_character_info>312> 312
+28/03/2023 2:28:39>Kanco [268474480]>admin_add_exp_sp_to_character>312>
+28/03/2023 2:28:42>Kanco [268474480]>admin_set_level>312> 76
+28/03/2023 2:38:16>Kanco [268474480]>admin_admin>312>
+28/03/2023 2:38:17>Kanco [268474480]>admin_admin2>312>
+28/03/2023 2:38:17>Kanco [268474480]>admin_show_characters>312> 0
+28/03/2023 2:38:18>Kanco [268474480]>admin_character_info>312> 312
+28/03/2023 2:38:32>Kanco [268474480]>admin_setclass>312>
+28/03/2023 2:38:35>Kanco [268474480]>admin_setclass>312> 88
+28/03/2023 2:38:40>Kanco [268474480]>admin_admin>312>
+28/03/2023 2:38:41>Kanco [268474480]>admin_admin2>312>
+28/03/2023 2:38:42>Kanco [268474480]>admin_show_characters>312> 0
+28/03/2023 2:38:45>Kanco [268474480]>admin_character_info>312> 312
+28/03/2023 2:38:52>Kanco [268474480]>admin_setclass>312>
+28/03/2023 2:38:56>Kanco [268474480]>admin_setclass>312> 16
+28/03/2023 2:39:01>Kanco [268474480]>admin_admin>312>
+28/03/2023 2:39:03>Kanco [268474480]>admin_admin2>312>
+28/03/2023 2:39:03>Kanco [268474480]>admin_show_characters>312> 0
+28/03/2023 2:39:08>Kanco [268474480]>admin_character_info>312> 312
+28/03/2023 2:39:19>Kanco [268474480]>admin_setclass>312>
+28/03/2023 2:39:20>Kanco [268474480]>admin_current_player>312>
+28/03/2023 2:42:56>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:42:57>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:42:58>Kanco [268474480]>admin_admin3>no-target>
+28/03/2023 2:42:59>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:43:00>Kanco [268474480]>admin_admin4>no-target>
+28/03/2023 2:43:02>Kanco [268474480]>admin_reload>no-target>
+28/03/2023 2:43:04>Kanco [268474480]>admin_reload>no-target> configs
+28/03/2023 2:55:05>Kanco [268474480]>admin_reload>no-target>
+28/03/2023 2:55:06>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:55:08>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 2:55:11>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 2:55:11>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 2:55:12>Kanco [268474480]>admin_admin4>no-target>
+28/03/2023 2:55:13>Kanco [268474480]>admin_reload>no-target>
+28/03/2023 2:55:16>Kanco [268474480]>admin_reload>no-target> configs
+28/03/2023 2:55:52>Kanco [268474480]>admin_admin>312>
+28/03/2023 2:55:53>Kanco [268474480]>admin_admin2>312>
+28/03/2023 2:55:53>Kanco [268474480]>admin_show_characters>312> 0
+28/03/2023 2:55:54>Kanco [268474480]>admin_character_info>312> Kanco
+28/03/2023 2:55:55>Kanco [268474480]>admin_add_exp_sp_to_character>Kanco>
+28/03/2023 2:55:57>Kanco [268474480]>admin_set_level>Kanco> 78
+28/03/2023 2:56:00>Kanco [268474480]>admin_admin>312>
+28/03/2023 2:56:01>Kanco [268474480]>admin_admin2>312>
+28/03/2023 2:56:01>Kanco [268474480]>admin_show_characters>312> 0
+28/03/2023 2:56:02>Kanco [268474480]>admin_character_info>312> Kanco
+28/03/2023 2:56:03>Kanco [268474480]>admin_add_exp_sp_to_character>Kanco>
+28/03/2023 2:56:06>Kanco [268474480]>admin_set_level>Kanco> 78
+28/03/2023 2:56:12>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 2:56:13>Kanco [268474480]>admin_admin2>Kanco>
+28/03/2023 2:56:13>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:56:14>Kanco [268474480]>admin_character_info>Kanco> Kanco
+28/03/2023 2:56:16>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 2:56:16>Kanco [268474480]>admin_character_info>Kanco> 312
+28/03/2023 2:56:17>Kanco [268474480]>admin_add_exp_sp_to_character>312>
+28/03/2023 2:56:19>Kanco [268474480]>admin_set_level>312> 78
+28/03/2023 2:57:17>Kanco [268474480]>admin_admin>312>
+28/03/2023 2:57:18>Kanco [268474480]>admin_admin2>312>
+28/03/2023 2:57:19>Kanco [268474480]>admin_show_characters>312> 0
+28/03/2023 2:57:21>Kanco [268474480]>admin_character_info>312> 312
+28/03/2023 2:57:22>Kanco [268474480]>admin_show_skills>312>
+28/03/2023 2:57:23>Kanco [268474480]>admin_current_player>312>
+28/03/2023 2:57:24>Kanco [268474480]>admin_add_exp_sp_to_character>312>
+28/03/2023 2:57:26>Kanco [268474480]>admin_set_level>312> 78
+28/03/2023 2:59:07>Kanco [268474480]>admin_reload>no-target>
+28/03/2023 2:59:09>Kanco [268474480]>admin_reload>no-target> configs
+28/03/2023 3:02:33>Kanco [268474480]>admin_reload>no-target> configs
+28/03/2023 3:19:19>Kanco [268474480]>admin_reload config>Kanco>
+28/03/2023 3:19:21>Kanco [268474480]>admin_reload>Kanco> configs
+28/03/2023 3:22:37>Kanco [268474480]>admin_admin4>Kanco>
+28/03/2023 3:22:38>Kanco [268474480]>admin_server_shutdown>Kanco>
+28/03/2023 3:22:41>Kanco [268474480]>admin_server_restart>Kanco> 20
+28/03/2023 3:24:49>Kanco [268474480]>admin_admin>no-target>
+28/03/2023 3:24:50>Kanco [268474480]>admin_admin2>no-target>
+28/03/2023 3:24:50>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 3:24:51>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 3:24:52>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 3:24:59>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 3:25:00>Kanco [268474480]>admin_character_info>no-target> sub
+28/03/2023 3:25:01>Kanco [268474480]>admin_recall_char_menu>sub> sub
+28/03/2023 3:25:02>Kanco [268474480]>admin_admin2>sub>
+28/03/2023 3:25:03>Kanco [268474480]>admin_show_characters>no-target> 0
+28/03/2023 3:25:04>Kanco [268474480]>admin_character_info>no-target> sub
+28/03/2023 3:25:05>Kanco [268474480]>admin_add_exp_sp_to_character>sub>
+28/03/2023 3:25:07>Kanco [268474480]>admin_set_level>sub> 80
+28/03/2023 3:25:09>Kanco [268474480]>admin_admin>sub>
+28/03/2023 3:25:10>Kanco [268474480]>admin_admin2>sub>
+28/03/2023 3:25:11>Kanco [268474480]>admin_show_characters>sub> 0
+28/03/2023 3:25:11>Kanco [268474480]>admin_character_info>sub> Kanco
+28/03/2023 3:25:12>Kanco [268474480]>admin_add_exp_sp_to_character>Kanco>
+28/03/2023 3:25:14>Kanco [268474480]>admin_set_level>Kanco> 76
+28/03/2023 3:26:54>Kanco [268474480]>admin_admin>Kanco>
+28/03/2023 3:26:55>Kanco [268474480]>admin_admin2>Kanco>
+28/03/2023 3:26:55>Kanco [268474480]>admin_show_characters>Kanco> 0
+28/03/2023 3:26:56>Kanco [268474480]>admin_character_info>Kanco> sub
+28/03/2023 3:26:57>Kanco [268474480]>admin_add_exp_sp_to_character>sub>
+28/03/2023 3:27:00>Kanco [268474480]>admin_set_level>sub> 78
+29/03/2023 0:20:16>Kanco [268474480]>admin_admin>no-target>
+29/03/2023 0:20:24>Kanco [268474480]>admin_admin2>no-target>
+29/03/2023 0:20:25>Kanco [268474480]>admin_show_characters>no-target> 0
+29/03/2023 0:20:27>Kanco [268474480]>admin_character_info>no-target> DIEGOTE
+29/03/2023 0:24:10>Kanco [268474480]>admin_reload>DIEGOTE>
+29/03/2023 0:26:17>Kanco [268474480]>admin_admin4>DIEGOTE>
+29/03/2023 0:26:18>Kanco [268474480]>admin_server_shutdown>DIEGOTE>
+29/03/2023 0:26:22>Kanco [268474480]>admin_server_restart>DIEGOTE> 15
+29/03/2023 0:29:46>Kanco [268474480]>admin_reload>no-target>
+29/03/2023 0:29:47>Kanco [268474480]>admin_admin2>no-target>
+29/03/2023 0:29:47>Kanco [268474480]>admin_show_characters>no-target> 0
+29/03/2023 0:29:49>Kanco [268474480]>admin_admin2>no-target>
+29/03/2023 0:29:50>Kanco [268474480]>admin_admin4>no-target>
+29/03/2023 0:29:53>Kanco [268474480]>admin_admin2>no-target>
+29/03/2023 0:29:53>Kanco [268474480]>admin_show_characters>no-target> 0
+29/03/2023 0:29:56>Kanco [268474480]>admin_admin>no-target>
+29/03/2023 0:29:59>Kanco [268474480]>admin_reload>no-target>
+29/03/2023 0:30:03>Kanco [268474480]>admin_reload>no-target> skill
+29/03/2023 0:30:07>Kanco [268474480]>admin_reload>no-target> configs
+29/03/2023 0:30:08>Kanco [268474480]>admin_reload>no-target> htm
+29/03/2023 0:33:21>Kanco [268474480]>admin_reload>no-target> skill
+29/03/2023 0:33:23>Kanco [268474480]>admin_reload>no-target> configs
+29/03/2023 0:35:25>Kanco [268474480]>admin_admin2>no-target>
+29/03/2023 0:37:21>Kanco [268474480]>admin_admin2>no-target>
+29/03/2023 0:37:21>Kanco [268474480]>admin_show_characters>no-target> 0
+29/03/2023 0:37:25>Kanco [268474480]>admin_admin>no-target>
+29/03/2023 0:37:26>Kanco [268474480]>admin_admin4>no-target>
+29/03/2023 0:37:28>Kanco [268474480]>admin_reload>no-target>
+29/03/2023 0:37:30>Kanco [268474480]>admin_reload>no-target> skill
+29/03/2023 0:37:31>Kanco [268474480]>admin_reload>no-target> configs
+29/03/2023 0:45:53>Kanco [268474480]>admin_admin4>no-target>
+29/03/2023 0:45:54>Kanco [268474480]>admin_server_shutdown>no-target>
+29/03/2023 0:45:56>Kanco [268474480]>admin_server_restart>no-target> 10
+29/03/2023 0:50:49>Kanco [268474480]>admin_admin>Kanco>
+29/03/2023 0:50:50>Kanco [268474480]>admin_admin2>Kanco>
+29/03/2023 0:50:51>Kanco [268474480]>admin_show_characters>Kanco> 0
+29/03/2023 0:53:00>Kanco [268474480]>admin_show_characters>Kanco> 0
+29/03/2023 1:01:15>Kanco [268474480]>admin_reload>Kanco>
+29/03/2023 1:01:17>Kanco [268474480]>admin_reload>Kanco> configs
+29/03/2023 1:01:50>Kanco [268474480]>admin_gmspeed 4>Kanco>
+29/03/2023 1:01:53>Kanco [268474480]>admin_admin>Kanco>
+29/03/2023 1:01:55>Kanco [268474480]>admin_admin2>Kanco>
+29/03/2023 1:01:55>Kanco [268474480]>admin_show_characters>Kanco> 0
+29/03/2023 1:01:56>Kanco [268474480]>admin_character_info>Kanco> Faka
+29/03/2023 1:01:58>Kanco [268474480]>admin_recall_char_menu>Faka> Faka

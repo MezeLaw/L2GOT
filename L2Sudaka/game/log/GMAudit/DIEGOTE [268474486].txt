@@ -1,0 +1,265 @@
+28/03/2023 0:29:23>DIEGOTE [268474486]>admin_gmspeed 4>no-target>
+28/03/2023 0:29:31>DIEGOTE [268474486]>admin_admin>Gremlin>
+28/03/2023 0:29:32>DIEGOTE [268474486]>admin_superhaste>Gremlin> 4
+28/03/2023 0:30:54>DIEGOTE [268474486]>admin_admin>Kanco>
+28/03/2023 0:30:56>DIEGOTE [268474486]>admin_superhaste>Kanco> 1
+28/03/2023 0:31:05>DIEGOTE [268474486]>admin_gmspeed 4>Kanco>
+28/03/2023 0:40:05>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:40:12>DIEGOTE [268474486]>admin_gmshop>no-target>
+28/03/2023 0:40:13>DIEGOTE [268474486]>admin_help>no-target> gmshop/Weapons.htm
+28/03/2023 0:40:14>DIEGOTE [268474486]>admin_help>no-target> gmshop/sgradew.htm
+28/03/2023 0:40:15>DIEGOTE [268474486]>admin_buy>no-target> 9049
+28/03/2023 0:40:32>DIEGOTE [268474486]>admin_spawn>no-target>
+28/03/2023 0:41:17>DIEGOTE [268474486]>admin_spawn_monster>no-target> 50008
+28/03/2023 0:41:28>DIEGOTE [268474486]>admin_admin>Rex the Cat>
+28/03/2023 0:41:29>DIEGOTE [268474486]>admin_admin2>Rex the Cat>
+28/03/2023 0:41:30>DIEGOTE [268474486]>admin_show_characters>Rex the Cat> 0
+28/03/2023 0:41:31>DIEGOTE [268474486]>admin_character_info>Rex the Cat> DIEGOTE
+28/03/2023 0:41:32>DIEGOTE [268474486]>admin_setclass>DIEGOTE>
+28/03/2023 0:41:54>DIEGOTE [268474486]>admin_setclass>DIEGOTE> 7
+28/03/2023 0:41:57>DIEGOTE [268474486]>admin_admin>DIEGOTE>
+28/03/2023 0:42:00>DIEGOTE [268474486]>admin_admin2>DIEGOTE>
+28/03/2023 0:42:00>DIEGOTE [268474486]>admin_show_characters>DIEGOTE> 0
+28/03/2023 0:42:01>DIEGOTE [268474486]>admin_character_info>DIEGOTE> DIEGOTE
+28/03/2023 0:42:05>DIEGOTE [268474486]>admin_add_exp_sp_to_character>DIEGOTE>
+28/03/2023 0:42:09>DIEGOTE [268474486]>admin_set_level>DIEGOTE> 20
+28/03/2023 0:42:11>DIEGOTE [268474486]>admin_admin>DIEGOTE>
+28/03/2023 0:42:12>DIEGOTE [268474486]>admin_admin2>DIEGOTE>
+28/03/2023 0:42:13>DIEGOTE [268474486]>admin_show_characters>DIEGOTE> 0
+28/03/2023 0:42:14>DIEGOTE [268474486]>admin_character_info>DIEGOTE> DIEGOTE
+28/03/2023 0:42:15>DIEGOTE [268474486]>admin_show_skills>DIEGOTE>
+28/03/2023 0:42:16>DIEGOTE [268474486]>admin_give_all_skills>DIEGOTE>
+28/03/2023 0:42:48>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:42:51>DIEGOTE [268474486]>admin_admin2>no-target>
+28/03/2023 0:42:52>DIEGOTE [268474486]>admin_show_characters>no-target> 0
+28/03/2023 0:42:53>DIEGOTE [268474486]>admin_character_info>no-target> DIEGOTE
+28/03/2023 0:42:55>DIEGOTE [268474486]>admin_show_skills>DIEGOTE>
+28/03/2023 0:42:58>DIEGOTE [268474486]>admin_current_player>DIEGOTE>
+28/03/2023 0:42:59>DIEGOTE [268474486]>admin_add_exp_sp_to_character>DIEGOTE>
+28/03/2023 0:43:09>DIEGOTE [268474486]>admin_set_level>DIEGOTE> 76
+28/03/2023 0:43:11>DIEGOTE [268474486]>admin_admin>DIEGOTE>
+28/03/2023 0:43:12>DIEGOTE [268474486]>admin_admin2>DIEGOTE>
+28/03/2023 0:43:12>DIEGOTE [268474486]>admin_show_characters>DIEGOTE> 0
+28/03/2023 0:43:14>DIEGOTE [268474486]>admin_character_info>DIEGOTE> DIEGOTE
+28/03/2023 0:43:15>DIEGOTE [268474486]>admin_setclass>DIEGOTE>
+28/03/2023 0:43:27>DIEGOTE [268474486]>admin_setclass>DIEGOTE> 8
+28/03/2023 0:43:29>DIEGOTE [268474486]>admin_admin>DIEGOTE>
+28/03/2023 0:43:31>DIEGOTE [268474486]>admin_admin2>DIEGOTE>
+28/03/2023 0:43:31>DIEGOTE [268474486]>admin_show_characters>DIEGOTE> 0
+28/03/2023 0:43:32>DIEGOTE [268474486]>admin_character_info>DIEGOTE> DIEGOTE
+28/03/2023 0:43:34>DIEGOTE [268474486]>admin_show_skills>DIEGOTE>
+28/03/2023 0:43:35>DIEGOTE [268474486]>admin_give_all_skills>DIEGOTE>
+28/03/2023 0:43:39>DIEGOTE [268474486]>admin_admin>DIEGOTE>
+28/03/2023 0:43:40>DIEGOTE [268474486]>admin_admin3>DIEGOTE>
+28/03/2023 0:43:41>DIEGOTE [268474486]>admin_admin2>DIEGOTE>
+28/03/2023 0:43:41>DIEGOTE [268474486]>admin_show_characters>DIEGOTE> 0
+28/03/2023 0:43:43>DIEGOTE [268474486]>admin_character_info>DIEGOTE> DIEGOTE
+28/03/2023 0:43:45>DIEGOTE [268474486]>admin_setclass>DIEGOTE>
+28/03/2023 0:43:50>DIEGOTE [268474486]>admin_setclass>DIEGOTE> 93
+28/03/2023 0:43:53>DIEGOTE [268474486]>admin_admin>DIEGOTE>
+28/03/2023 0:43:54>DIEGOTE [268474486]>admin_admin2>DIEGOTE>
+28/03/2023 0:43:54>DIEGOTE [268474486]>admin_show_characters>DIEGOTE> 0
+28/03/2023 0:43:55>DIEGOTE [268474486]>admin_character_info>DIEGOTE> DIEGOTE
+28/03/2023 0:43:57>DIEGOTE [268474486]>admin_add_exp_sp_to_character>DIEGOTE>
+28/03/2023 0:44:00>DIEGOTE [268474486]>admin_set_level>DIEGOTE> 80
+28/03/2023 0:44:03>DIEGOTE [268474486]>admin_admin>DIEGOTE>
+28/03/2023 0:44:05>DIEGOTE [268474486]>admin_admin2>DIEGOTE>
+28/03/2023 0:44:05>DIEGOTE [268474486]>admin_show_characters>DIEGOTE> 0
+28/03/2023 0:44:06>DIEGOTE [268474486]>admin_character_info>DIEGOTE> DIEGOTE
+28/03/2023 0:44:08>DIEGOTE [268474486]>admin_show_skills>DIEGOTE>
+28/03/2023 0:44:11>DIEGOTE [268474486]>admin_current_player>DIEGOTE>
+28/03/2023 0:44:12>DIEGOTE [268474486]>admin_add_exp_sp_to_character>DIEGOTE>
+28/03/2023 0:44:15>DIEGOTE [268474486]>admin_set_level>DIEGOTE> 79
+28/03/2023 0:44:17>DIEGOTE [268474486]>admin_admin>DIEGOTE>
+28/03/2023 0:44:18>DIEGOTE [268474486]>admin_admin2>DIEGOTE>
+28/03/2023 0:44:19>DIEGOTE [268474486]>admin_show_characters>DIEGOTE> 0
+28/03/2023 0:44:20>DIEGOTE [268474486]>admin_character_info>DIEGOTE> DIEGOTE
+28/03/2023 0:44:21>DIEGOTE [268474486]>admin_show_skills>DIEGOTE>
+28/03/2023 0:44:23>DIEGOTE [268474486]>admin_give_all_skills>DIEGOTE>
+28/03/2023 0:45:30>DIEGOTE [268474486]>admin_admin>Goblin Snooper>
+28/03/2023 0:45:31>DIEGOTE [268474486]>admin_admin2>Goblin Snooper>
+28/03/2023 0:45:32>DIEGOTE [268474486]>admin_show_characters>Goblin Snooper> 0
+28/03/2023 0:45:35>DIEGOTE [268474486]>admin_admin2>no-target>
+28/03/2023 0:45:38>DIEGOTE [268474486]>admin_admin2>no-target>
+28/03/2023 0:45:40>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:45:40>DIEGOTE [268474486]>admin_move_to>no-target>
+28/03/2023 0:45:41>DIEGOTE [268474486]>admin_help>no-target> tele/towns.htm
+28/03/2023 0:45:50>DIEGOTE [268474486]>admin_show_moves>no-target>
+28/03/2023 0:45:55>DIEGOTE [268474486]>admin_gmspeed 4>no-target>
+28/03/2023 0:46:12>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:46:13>DIEGOTE [268474486]>admin_admin2>no-target>
+28/03/2023 0:46:14>DIEGOTE [268474486]>admin_show_characters>no-target> 0
+28/03/2023 0:46:15>DIEGOTE [268474486]>admin_admin2>no-target>
+28/03/2023 0:46:20>DIEGOTE [268474486]>admin_help>no-target> mods_menu.htm
+28/03/2023 0:46:25>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:46:31>DIEGOTE [268474486]>admin_invis_menu_main>no-target>
+28/03/2023 0:46:34>DIEGOTE [268474486]>admin_gmshop>no-target>
+28/03/2023 0:46:37>DIEGOTE [268474486]>admin_help>no-target> gmshop/sets.htm
+28/03/2023 0:46:43>DIEGOTE [268474486]>admin_help>no-target> gmshops.htm
+28/03/2023 0:46:47>DIEGOTE [268474486]>admin_help>no-target> gmshop/sets.htm
+28/03/2023 0:46:49>DIEGOTE [268474486]>admin_help>no-target> gmshops.htm
+28/03/2023 0:46:57>DIEGOTE [268474486]>admin_help>no-target> gmshop/sets.htm
+28/03/2023 0:46:59>DIEGOTE [268474486]>admin_buy>no-target> 9117
+28/03/2023 0:47:17>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:47:23>DIEGOTE [268474486]>admin_gmshop>no-target>
+28/03/2023 0:48:28>DIEGOTE [268474486]>admin_help>no-target> gmshop/Weapons.htm
+28/03/2023 0:48:29>DIEGOTE [268474486]>admin_help>no-target> gmshop/sgradew.htm
+28/03/2023 0:48:32>DIEGOTE [268474486]>admin_buy>no-target> 9048
+28/03/2023 0:48:36>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:48:39>DIEGOTE [268474486]>admin_gmshop>no-target>
+28/03/2023 0:48:41>DIEGOTE [268474486]>admin_buy>no-target> 300511
+28/03/2023 0:48:58>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:48:59>DIEGOTE [268474486]>admin_admin2>no-target>
+28/03/2023 0:49:01>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:49:02>DIEGOTE [268474486]>admin_move_to>no-target>
+28/03/2023 0:49:13>DIEGOTE [268474486]>admin_help>no-target> tele/others/arenas.htm
+28/03/2023 0:49:20>DIEGOTE [268474486]>admin_help>no-target> teleports.htm
+28/03/2023 0:49:24>DIEGOTE [268474486]>admin_help>no-target> tele/locations/c4.htm
+28/03/2023 0:49:28>DIEGOTE [268474486]>admin_move_to>no-target> 119087 -42201 -3215
+28/03/2023 0:50:26>DIEGOTE [268474486]>admin_admin>Varka Silenos Scout>
+28/03/2023 0:50:28>DIEGOTE [268474486]>admin_move_to>Varka Silenos Scout>
+28/03/2023 0:50:29>DIEGOTE [268474486]>admin_help>no-target> tele/towns.htm
+28/03/2023 0:50:31>DIEGOTE [268474486]>admin_move_to>no-target> 115113 -178212 -901
+28/03/2023 0:51:56>DIEGOTE [268474486]>admin_invul>Rex the Cat>
+28/03/2023 0:52:05>DIEGOTE [268474486]>admin_admin>Rex the Cat>
+28/03/2023 0:52:07>DIEGOTE [268474486]>admin_move_to>Rex the Cat>
+28/03/2023 0:52:12>DIEGOTE [268474486]>admin_help>Rex the Cat> tele/other.htm
+28/03/2023 0:52:15>DIEGOTE [268474486]>admin_move_to>Rex the Cat> -116059 -251145 -2992
+28/03/2023 0:52:21>DIEGOTE [268474486]>admin_admin>no-target>
+28/03/2023 0:52:24>DIEGOTE [268474486]>admin_move_to>no-target>
+28/03/2023 0:52:26>DIEGOTE [268474486]>admin_help>no-target> tele/locations/c4.htm
+28/03/2023 0:52:28>DIEGOTE [268474486]>admin_move_to>no-target> 170723 -116207 -2067
+28/03/2023 0:53:04>DIEGOTE [268474486]>admin_gmshop>Scarlet Stakato Soldier>
+28/03/2023 0:53:07>DIEGOTE [268474486]>admin_help>Scarlet Stakato Soldier> gmshop/Jewels.htm
+28/03/2023 0:53:08>DIEGOTE [268474486]>admin_buy>Scarlet Stakato Soldier> 9300
+28/03/2023 0:54:46>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 0:55:29>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 0:55:50>DIEGOTE [268474486]>admin_gmspeed 0>Scarlet Stakato Noble>
+28/03/2023 0:56:03>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 0:56:53>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 0:57:32>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 0:58:21>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 0:59:05>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 0:59:44>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 1:01:03>DIEGOTE [268474486]>admin_heal>DIEGOTE>
+28/03/2023 1:01:38>DIEGOTE [268474486]>admin_teleportto Kanco>no-target>
+28/03/2023 1:02:20>DIEGOTE [268474486]>admin_invul>no-target>
+28/03/2023 23:56:04>DIEGOTE [268474486]>admin_recall faka>no-target>
+28/03/2023 23:56:10>DIEGOTE [268474486]>admin_admin>Faka>
+28/03/2023 23:56:11>DIEGOTE [268474486]>admin_admin2>Faka>
+28/03/2023 23:56:11>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+28/03/2023 23:56:12>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+28/03/2023 23:56:23>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+28/03/2023 23:56:30>DIEGOTE [268474486]>admin_current_player>Faka>
+28/03/2023 23:56:32>DIEGOTE [268474486]>admin_admin>Faka>
+28/03/2023 23:56:33>DIEGOTE [268474486]>admin_move_to>Faka>
+28/03/2023 23:56:34>DIEGOTE [268474486]>admin_help>Faka> tele/towns.htm
+28/03/2023 23:56:35>DIEGOTE [268474486]>admin_move_to>Faka> 83400 147943 -3404
+28/03/2023 23:57:04>DIEGOTE [268474486]>admin_recall faka>no-target>
+28/03/2023 23:57:13>DIEGOTE [268474486]>admin_admin>Faka>
+28/03/2023 23:57:14>DIEGOTE [268474486]>admin_admin2>Faka>
+28/03/2023 23:57:15>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+28/03/2023 23:57:27>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+28/03/2023 23:57:28>DIEGOTE [268474486]>admin_show_skills>Faka>
+28/03/2023 23:57:33>DIEGOTE [268474486]>admin_current_player>Faka>
+28/03/2023 23:57:35>DIEGOTE [268474486]>admin_show_skills>Faka>
+28/03/2023 23:57:36>DIEGOTE [268474486]>admin_current_player>Faka>
+28/03/2023 23:57:37>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+28/03/2023 23:57:40>DIEGOTE [268474486]>admin_set_level>Faka> 20
+28/03/2023 23:57:55>DIEGOTE [268474486]>admin_admin>Faka>
+28/03/2023 23:57:56>DIEGOTE [268474486]>admin_admin2>Faka>
+28/03/2023 23:57:57>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+28/03/2023 23:58:03>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+28/03/2023 23:58:04>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+28/03/2023 23:58:09>DIEGOTE [268474486]>admin_set_level>Faka> 40
+28/03/2023 23:59:53>DIEGOTE [268474486]>admin_gmshop>Faka>
+28/03/2023 23:59:58>DIEGOTE [268474486]>admin_help>Faka> gmshop/Weapons.htm
+28/03/2023 23:59:59>DIEGOTE [268474486]>admin_help>Faka> gmshop/sgradew.htm
+29/03/2023 0:00:00>DIEGOTE [268474486]>admin_buy>Faka> 9048
+29/03/2023 0:00:14>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:00:15>DIEGOTE [268474486]>admin_admin2>Faka>
+29/03/2023 0:00:15>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+29/03/2023 0:00:16>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+29/03/2023 0:00:18>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+29/03/2023 0:00:24>DIEGOTE [268474486]>admin_set_level>Faka> 79
+29/03/2023 0:00:47>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:00:48>DIEGOTE [268474486]>admin_admin2>Faka>
+29/03/2023 0:00:49>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+29/03/2023 0:00:50>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+29/03/2023 0:00:51>DIEGOTE [268474486]>admin_show_skills>Faka>
+29/03/2023 0:00:52>DIEGOTE [268474486]>admin_give_all_skills>Faka>
+29/03/2023 0:01:48>DIEGOTE [268474486]>admin_recall faka>Faka>
+29/03/2023 0:01:51>DIEGOTE [268474486]>admin_gmspeed 4>no-target>
+29/03/2023 0:02:00>DIEGOTE [268474486]>admin_recall faka>no-target>
+29/03/2023 0:02:47>DIEGOTE [268474486]>admin_recall faka>no-target>
+29/03/2023 0:03:13>DIEGOTE [268474486]>admin_heal>no-target>
+29/03/2023 0:03:14>DIEGOTE [268474486]>admin_admin>no-target>
+29/03/2023 0:03:16>DIEGOTE [268474486]>admin_admin2>Faka>
+29/03/2023 0:03:16>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+29/03/2023 0:03:17>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+29/03/2023 0:03:19>DIEGOTE [268474486]>admin_show_skills>Faka>
+29/03/2023 0:03:21>DIEGOTE [268474486]>admin_current_player>Faka>
+29/03/2023 0:03:22>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+29/03/2023 0:03:25>DIEGOTE [268474486]>admin_set_level>Faka> 79
+29/03/2023 0:03:35>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:03:36>DIEGOTE [268474486]>admin_admin2>Faka>
+29/03/2023 0:03:37>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+29/03/2023 0:03:37>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+29/03/2023 0:03:39>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+29/03/2023 0:03:42>DIEGOTE [268474486]>admin_set_level>Faka> 78
+29/03/2023 0:03:49>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:03:51>DIEGOTE [268474486]>admin_admin2>Faka>
+29/03/2023 0:03:51>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+29/03/2023 0:03:52>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+29/03/2023 0:03:53>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+29/03/2023 0:03:56>DIEGOTE [268474486]>admin_set_level>Faka> 79
+29/03/2023 0:04:06>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:04:07>DIEGOTE [268474486]>admin_admin2>Faka>
+29/03/2023 0:04:08>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+29/03/2023 0:04:08>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+29/03/2023 0:04:09>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+29/03/2023 0:04:15>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:17>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:17>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:17>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:17>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:17>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:18>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:18>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:18>DIEGOTE [268474486]>admin_add_exp_sp>Faka>
+29/03/2023 0:04:20>DIEGOTE [268474486]>admin_add_exp_sp>Faka> 9999
+29/03/2023 0:04:23>DIEGOTE [268474486]>admin_add_exp_sp>Faka> 9999
+29/03/2023 0:04:51>DIEGOTE [268474486]>admin_current_player>no-target>
+29/03/2023 0:04:55>DIEGOTE [268474486]>admin_recall Faka//>no-target>
+29/03/2023 0:04:59>DIEGOTE [268474486]>admin_recall Faka>no-target>
+29/03/2023 0:05:15>DIEGOTE [268474486]>admin_admin>no-target>
+29/03/2023 0:05:16>DIEGOTE [268474486]>admin_admin2>no-target>
+29/03/2023 0:05:17>DIEGOTE [268474486]>admin_show_characters>no-target> 0
+29/03/2023 0:05:18>DIEGOTE [268474486]>admin_character_info>no-target> Faka
+29/03/2023 0:05:19>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+29/03/2023 0:05:23>DIEGOTE [268474486]>admin_set_level>Faka> 79
+29/03/2023 0:05:26>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:05:28>DIEGOTE [268474486]>admin_admin2>Faka>
+29/03/2023 0:05:28>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+29/03/2023 0:05:29>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+29/03/2023 0:05:30>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+29/03/2023 0:05:33>DIEGOTE [268474486]>admin_set_level>Faka> 78
+29/03/2023 0:05:58>DIEGOTE [268474486]>admin_gmshop>Faka>
+29/03/2023 0:06:00>DIEGOTE [268474486]>admin_help>Faka> gmshop/Weapons.htm
+29/03/2023 0:06:01>DIEGOTE [268474486]>admin_help>Faka> gmshop/sgradew.htm
+29/03/2023 0:06:02>DIEGOTE [268474486]>admin_buy>Faka> 9050
+29/03/2023 0:12:36>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:12:37>DIEGOTE [268474486]>admin_view_petitions>Faka>
+29/03/2023 0:12:38>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:12:39>DIEGOTE [268474486]>admin_ride_wyvern>Faka>
+29/03/2023 0:14:18>DIEGOTE [268474486]>admin_show_skilllist_npc>Rex the Cat> 50008
+29/03/2023 0:14:29>DIEGOTE [268474486]>admin_recall Faka>Rex the Cat>
+29/03/2023 0:15:29>DIEGOTE [268474486]>admin_admin>Faka>
+29/03/2023 0:15:31>DIEGOTE [268474486]>admin_admin2>Faka>
+29/03/2023 0:15:31>DIEGOTE [268474486]>admin_show_characters>Faka> 0
+29/03/2023 0:15:33>DIEGOTE [268474486]>admin_character_info>Faka> Faka
+29/03/2023 0:15:34>DIEGOTE [268474486]>admin_add_exp_sp_to_character>Faka>
+29/03/2023 0:15:36>DIEGOTE [268474486]>admin_set_level>Faka> 78
+29/03/2023 0:24:18>DIEGOTE [268474486]>admin_reload>no-target>
+29/03/2023 0:24:21>DIEGOTE [268474486]>admin_reload>no-target> skill
+29/03/2023 0:24:48>DIEGOTE [268474486]>admin_admin2>no-target>
